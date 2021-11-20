@@ -93,6 +93,8 @@ sklearn.datasets.load_breast_cancer
 # RESULTS 
 An accuracy of 96% was achieved by using SVM model and after normalization technique after optimisation of C and Gamma parameters it was increased to a value of a 97%.
 
+For queries, feel free to drop a message on [LinkedIn](https://www.linkedin.com/in/sonugoswami1/).
+
 
 
 
